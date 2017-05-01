@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\小冬\StudioProjects\JwtAcdSimpleProvider\app\src\main\assets"><file name="acdSimple.db" path="C:\Users\小冬\StudioProjects\JwtAcdSimpleProvider\app\src\main\assets\acdSimple.db"/></source></dataSet><dataSet config="debug"><source path="C:\Users\小冬\StudioProjects\JwtAcdSimpleProvider\app\src\debug\assets"/></dataSet></merger>

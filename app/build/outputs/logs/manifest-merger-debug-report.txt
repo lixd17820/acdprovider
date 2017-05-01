@@ -1,0 +1,42 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:10:5-16:19
+	android:label
+		ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:11:9-45
+provider#com.acd.simple.provider.AcdSimpleProvider
+ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:13:9-15:48
+	android:authorities
+		ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:14:13-58
+	android:name
+		ADDED from D:\android_project\JwtAcdSimpleProvider\app\src\main\AndroidManifest.xml:15:13-45
